@@ -81,7 +81,7 @@ open index.html
 npx serve .
 # or
 python3 -m http.server 8080
-```<img width="1280" height="800" alt="Screenshot 2026-05-16 at 12 18 07 PM" src="https://github.com/user-attachments/assets/7241d254-75fd-45f7-bd70-8f09ecc2215d" />
+```
 
 
 
