@@ -1,4 +1,4 @@
-# IPOVista 🇮🇳
+# IPOVista 
 ### Indian IPO Analytics Dashboard
 
 > Search any IPO from 2010–2022 and instantly see subscription data, listing gains, investor sentiment scores, peer comparisons, and market-wide trends — all in one dark-mode dashboard.
